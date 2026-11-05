@@ -105,7 +105,7 @@ Application screenshots will be added after reviewing and sanitizing them to ens
 
 ## Data Privacy
 
-This public repository does not include original agricultural datasets, operational spreadsheets, private model artifacts, environment secrets, or confidential institutional information.
+This public repository does not include original agricultural datasets, operational spreadsheets or confidential institutional information.
 
 The application source code is presented for technical demonstration. Running the complete application requires separately authorized data sources and configuration.
 
